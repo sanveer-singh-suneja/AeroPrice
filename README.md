@@ -135,8 +135,8 @@ The outputs of Layer 1 and Layer 2 are concatenated. This global feature vector 
 
 ### 1. Download Large Files
 Due to GitHub file size limits, the trained model and image patches must be downloaded separately:
-1. **Model Weights:** Download `final_model_satellite.h5` and place it in the `models/` directory.
-2. **Datasets:** Download the datasets and the `image_patches/` folder and place them in the `data/` directory.
+1. **Model Weights:** Download `final_model_satellite.h5` from [Hugging Face](https://huggingface.co/sanveer-singh/austin-property-predictor) and place it in the `models/` directory.
+2. **Datasets:** Download the datasets and the `image_patches/` folder from [Kaggle](https://www.kaggle.com/datasets/sanveersinghsuneja/austin-satellite-property-data) and place them in the `data/` directory.
 
 ### 2. Install dependencies
 ```bash
