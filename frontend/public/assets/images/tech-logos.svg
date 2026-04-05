@@ -1,0 +1,45 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .tech-logo { fill: #00d4ff; }
+      .tech-text { fill: #ffffff; font-family: 'Montserrat', sans-serif; font-size: 12px; }
+    </style>
+  </defs>
+  
+  <!-- Python Logo -->
+  <g transform="translate(50, 50)">
+    <circle cx="30" cy="30" r="25" fill="#3776ab" opacity="0.8"/>
+    <text x="30" y="35" text-anchor="middle" class="tech-text" font-size="16" font-weight="bold">Py</text>
+  </g>
+  
+  <!-- TensorFlow Logo -->
+  <g transform="translate(150, 50)">
+    <rect x="5" y="5" width="50" height="50" fill="#ff6f00" opacity="0.8" rx="5"/>
+    <text x="30" y="35" text-anchor="middle" class="tech-text" font-size="14" font-weight="bold">TF</text>
+  </g>
+  
+  <!-- OpenCV Logo -->
+  <g transform="translate(250, 50)">
+    <circle cx="30" cy="30" r="25" fill="#5c3ee8" opacity="0.8"/>
+    <text x="30" y="35" text-anchor="middle" class="tech-text" font-size="12" font-weight="bold">CV</text>
+  </g>
+  
+  <!-- Google Earth Engine -->
+  <g transform="translate(350, 50)">
+    <rect x="5" y="5" width="50" height="50" fill="#4285f4" opacity="0.8" rx="5"/>
+    <text x="30" y="35" text-anchor="middle" class="tech-text" font-size="10" font-weight="bold">GEE</text>
+  </g>
+  
+  <!-- Pandas Logo -->
+  <g transform="translate(450, 50)">
+    <rect x="5" y="5" width="50" height="50" fill="#150458" opacity="0.8" rx="5"/>
+    <text x="30" y="35" text-anchor="middle" class="tech-text" font-size="12" font-weight="bold">PD</text>
+  </g>
+  
+  <!-- Scikit-learn Logo -->
+  <g transform="translate(550, 50)">
+    <circle cx="30" cy="30" r="25" fill="#f7931e" opacity="0.8"/>
+    <text x="30" y="35" text-anchor="middle" class="tech-text" font-size="10" font-weight="bold">SK</text>
+  </g>
+</svg>
+

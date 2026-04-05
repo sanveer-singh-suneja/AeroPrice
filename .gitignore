@@ -1,0 +1,18 @@
+# Virtual environments
+.venv/
+venv/
+new_env/
+
+# Large data folders
+image_patches/
+outputs/
+
+# Model and data files
+*.h5
+*.pkl
+*.csv
+*.xlsx
+
+# Python cache and Editor stuff
+__pycache__/
+.vscode/
