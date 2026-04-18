@@ -10,7 +10,6 @@ import time
 import os
 import webbrowser
 from pathlib import Path
-
 def check_dependencies():
     """Check if required dependencies are installed."""
     required_packages = [
