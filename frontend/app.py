@@ -8,7 +8,6 @@ from plotly.subplots import make_subplots
 import base64
 from io import BytesIO
 import time
-
 # Page configuration
 st.set_page_config(
     page_title="🛰️ AeroPrice - Satellite Property Valuation",
